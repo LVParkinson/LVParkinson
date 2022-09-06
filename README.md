@@ -19,7 +19,6 @@ And for fun:
 💬 Ask me about: The promises and limitations of forest based carbon capture, or making concise eye-catching presentations  
 
 📫 How to reach me: <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Email](parkinson.lindsey@protonmail.com) 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/lindsey-viann)
       
 
