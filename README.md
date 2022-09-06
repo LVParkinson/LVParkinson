@@ -9,11 +9,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Engagement analysis of Zoom meeting chat transcripts](https://lindseyviann.medium.com/a-command-line-application-to-analyze-zoom-meeting-text-f9d8835b125a)    
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Scraping research grade biological observations from social media](https://github.com/LVParkinson/Biodiversity_Scraping) - work in progress  
 And for fun:  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Creating a reading list from the authors interviewed on my favorite podcast - 99% Invisible](https://github.com/LVParkinson/99pi_booklist) - work in progress
-
- 
-**Currently Learning**: Julia through MIT's open course: [Introduction to Computational Thinking](https://computationalthinking.mit.edu/Fall20/)  
-**Looking for help**: Finding a data analyst position in the Zürich or Zug regions.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Creating a reading list from the authors interviewed on my favorite podcast - 99% Invisible](https://github.com/LVParkinson/99pi_booklist) - work in progress  
 
 
 💬 Ask me about: The promises and limitations of forest based carbon capture, or making concise eye-catching presentations  
