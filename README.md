@@ -2,11 +2,10 @@
 <img src="https://images.unsplash.com/photo-1444492417251-9c84a5fa18e0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=975&h=300&q=80"/>
  
 ### Grüezi! 👋 I'm Lindsey Parkinson, a data scientist with a background in forest ecology research and science communication  
- 
- **I'm...**   
-**Currently working on**: Creating interactive tools for the Food Packaging Forum to share insights on the chemicals used in food packaging and food processing equipment and how those chemicals may impact human and environmental health. 
+    
+**I'm currently working on**: Creating interactive tools for the Food Packaging Forum to share insights on the chemicals used in food packaging and food processing equipment and how those chemicals may impact human and environmental health. 
 
-** Previous side projects include**
+**Previous side projects include**    
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Image processing of University of Zurich Herbarium specimens](https://github.com/eth-library-lab/herbaria--plant-labeling)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Engagement analysis of Zoom meeting chat transcripts](https://lindseyviann.medium.com/a-command-line-application-to-analyze-zoom-meeting-text-f9d8835b125a)    
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Scraping research grade biological observations from social media](https://github.com/LVParkinson/Biodiversity_Scraping) - work in progress    
