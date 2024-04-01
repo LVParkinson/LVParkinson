@@ -3,7 +3,7 @@
  
 ### Grüezi! 👋 I'm Lindsey Parkinson, a data scientist with a background in forest ecology research and science communication  
     
-**I'm currently working on**: Creating interactive tools for the [Food Packaging Forum](https://www.foodpackagingforum.org/) to share insights on the chemicals used in food packaging and food processing equipment and how those chemicals may impact human and environmental health. 
+**I'm currently working on**: Creating interactive tools for the [Food Packaging Forum](https://www.foodpackagingforum.org/) to share insights on the chemicals used in food packaging and food processing equipment and how those chemicals may impact human and environmental health. As well as writing and analysis for the [Alaska Berry Futures](https://sites.google.com/alaska.edu/alaska-berry-futures/home) *Berries in Alaska's Changing Environment* series of booklets. 
 
 **Previous side projects include**    
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Image processing of University of Zurich Herbarium specimens](https://github.com/eth-library-lab/herbaria--plant-labeling)  
