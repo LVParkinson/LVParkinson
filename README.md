@@ -26,6 +26,7 @@ Writing and analysis for the [Alaska Berry Futures](https://sites.google.com/ala
 - [Creating a reading list from the authors interviewed on the podcast 99% Invisible](https://github.com/LVParkinson/99pi_booklist)   
 
  
+### Other stuff
 
 📫 How to reach me: <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/lindsey-viann)
