@@ -5,7 +5,7 @@
     
 ### Data-related projects I'm currently working on 
 
-Creating interactive tools and reviewing the latest research for the [Food Packaging Forum](https://www.foodpackagingforum.org/). We share insights on the chemicals used in food packaging and food processing equipment and how those chemicals may impact human and environmental health. These include:
+Creating interactive tools and reviewing the latest research for the [Food Packaging Forum](https://www.foodpackagingforum.org/). FPF shares insights on the chemicals used in food packaging and food processing equipment and how those chemicals may impact human and environmental health. These include:
 
 - [FCCmigex dashboard](https://www.foodpackagingforum.org/fccmigex)    
   A tool to explore the Database on migrating and extractable food contact chemicals (FCCmigex). As of the last update in October 2022, the database contains over 24,000 database entries with data from more than 1,300 scientific studies covering >4,200 food contact chemicals.
