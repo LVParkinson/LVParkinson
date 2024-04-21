@@ -28,8 +28,13 @@ Writing and analysis for the [Alaska Berry Futures](https://sites.google.com/ala
  
 ### Other stuff
 
-📫 How to reach me: <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/lindsey-viann)
+📫 Best way to reach me: <br>
+- [LinkedIn](https://www.linkedin.com/in/lindsey-viann)
+
+Other places on the internet
+- [ResearchGate](https://www.researchgate.net/profile/Lindsey-Parkinson-3)
+- [Medium](https://lindseyviann.medium.com/)
+- [Twitter/X](https://twitter.com/LindseyViann)
       
 ⚡ Fun facts:  
 - For over 3 years in Fairbanks, Alaska I lived in a cabin without running water. 🏡    
