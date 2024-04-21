@@ -1,7 +1,7 @@
 
 <img src="https://images.unsplash.com/photo-1444492417251-9c84a5fa18e0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=975&h=300&q=80"/>
  
-## Hi! 👋 I'm Lindsey Parkinson, a data scientist with a background in forest ecology research and science communication  
+## Hi! 👋 I'm Lindsey Parkinson, a data analyst studying food contact materials with a background in boreal forest ecology and science communication  
     
 ### Data-related projects I'm currently working on 
 
