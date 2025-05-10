@@ -14,7 +14,7 @@
 - [Useful resources repository](https://github.com/Food-Packaging-Forum/useful-resources) on the [FPF GitHub page](https://github.com/Food-Packaging-Forum)    
   Tools and information to make research on chemicals easier. Including functions to 1) take a DataFrame with citation information and generate an EndNote-compatible .txt file. 2) Python script provides tools for validating Chemical Abstracts Service (CAS) Registry Numbers and working with them in a dataframe.    
 
-**Writing and analysis for the [Alaska Berry Futures](https://sites.google.com/alaska.edu/alaska-berry-futures/home) *Berries in Alaska's Changing Environment* series of booklets and organizing the [project's GitHub](https://github.com/LVParkinson/Alaska-Berry-Futures) page.**
+**Writing and analysis for the [Alaska Berry Futures](https://sites.google.com/alaska.edu/alaska-berry-futures/home) *Berries in Alaska's Changing Environment* series of booklets. I also maintain the [project's GitHub](https://github.com/LVParkinson/Alaska-Berry-Futures) page.**
  
 
 ### Previous side projects include    
