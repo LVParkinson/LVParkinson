@@ -1,11 +1,11 @@
 
 <img src="https://images.unsplash.com/photo-1444492417251-9c84a5fa18e0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=975&h=300&q=80"/>
  
-## Hi! 👋 I'm Lindsey Parkinson, a data analyst studying food contact materials with a background in boreal forest ecology and science communication  
+## Hi! 👋 I'm Lindsey Parkinson, a data analyst with a background in food contact materials, boreal forest ecology, and science communication  
     
-### Data-related projects I'm currently working on 
+### Data-related projects I've worked on 
 
-Creating interactive tools and reviewing the latest research for the [Food Packaging Forum](https://www.foodpackagingforum.org/). FPF shares insights on the chemicals used in food packaging and food processing equipment and how those chemicals may impact human and environmental health. These include:
+**Creating interactive tools and reviewing the latest research for the [Food Packaging Forum](https://www.foodpackagingforum.org/). These include:**
 
 - [FCCmigex dashboard](https://www.foodpackagingforum.org/fccmigex)    
   A tool to explore the Database on migrating and extractable food contact chemicals (FCCmigex). As of the last update in October 2022, the database contains over 24,000 database entries with data from more than 1,300 scientific studies covering >4,200 food contact chemicals.
@@ -13,10 +13,8 @@ Creating interactive tools and reviewing the latest research for the [Food Packa
   Tracking packaging-related sustainability initiatives and commitments by food brands and retailers from around the world.
 - [Useful resources repository](https://github.com/Food-Packaging-Forum/useful-resources) on the [FPF GitHub page](https://github.com/Food-Packaging-Forum)    
   Tools and information to make research on chemicals easier. Including functions to 1) take a DataFrame with citation information and generate an EndNote-compatible .txt file. 2) Python script provides tools for validating Chemical Abstracts Service (CAS) Registry Numbers and working with them in a dataframe.    
-- [Potential breast carcinogens in food contact materials](https://www.foodpackagingforum.org/news/food-contact-chemicals-among-921-substances-tied-to-breast-cancer-risk)    
-  A short analysis for the FPF news and newsletter
 
-Writing and analysis for the [Alaska Berry Futures](https://sites.google.com/alaska.edu/alaska-berry-futures/home) *Berries in Alaska's Changing Environment* series of booklets and organizing the [project's GitHub](https://github.com/LVParkinson/Alaska-Berry-Futures) page.
+**Writing and analysis for the [Alaska Berry Futures](https://sites.google.com/alaska.edu/alaska-berry-futures/home) *Berries in Alaska's Changing Environment* series of booklets and organizing the [project's GitHub](https://github.com/LVParkinson/Alaska-Berry-Futures) page.**
  
 
 ### Previous side projects include    
